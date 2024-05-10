@@ -1,0 +1,67 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "acs86.com",
+        "adacale.de",
+        "adchina.com",
+        "adcome.cn",
+        "adinfuse.com",
+        "adjust.com",
+        "admaster.com.cn",
+        "admob.com",
+        "ads.mobclix.com",
+        "adsage.cn",
+        "adsage.com",
+        "adsmogo.org",
+        "adview.cn",
+        "adwhirl.com",
+        "adwo.com",
+        "cmcore.com",
+        "cnzz.com",
+        "coremetrics.com",
+        "data.vod.itc.cn",
+        "doubleclick.net",
+        "flurry.com",
+        "irs01.com",
+        "madmini.com",
+        "mixpanel.com",
+        "mmstat.com",
+        "tanx.com",
+        "wrating.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".acs86.com",
+        ".adacale.de",
+        ".adchina.com",
+        ".adcome.cn",
+        ".adinfuse.com",
+        ".adjust.com",
+        ".admaster.com.cn",
+        ".admob.com",
+        ".ads.mobclix.com",
+        ".adsage.cn",
+        ".adsage.com",
+        ".adsmogo.org",
+        ".adview.cn",
+        ".adwhirl.com",
+        ".adwo.com",
+        ".cmcore.com",
+        ".cnzz.com",
+        ".coremetrics.com",
+        ".data.vod.itc.cn",
+        ".doubleclick.net",
+        ".flurry.com",
+        ".irs01.com",
+        ".madmini.com",
+        ".mixpanel.com",
+        ".mmstat.com",
+        ".tanx.com",
+        ".wrating.com"
+      ]
+    }
+  ],
+  "version": 1
+}
